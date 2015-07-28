@@ -7,3 +7,10 @@ How is the staging area different from the working directory
 and the repository? What value do you think it offers?
 Working directory is where all our files used to exist. We
 can use git 
+
+What are some situations when branches would be helpful 
+in keeping your history organized? How would branches help?
+
+One situation which I have in mind now is how can I develop
+two versions of my IWCF app, one paid version without ads
+and another free version with ads.
