@@ -14,3 +14,7 @@ in keeping your history organized? How would branches help?
 One situation which I have in mind now is how can I develop
 two versions of my IWCF app, one paid version without ads
 and another free version with ads.
+
+How do the diagrams help you visualize the branch structure?
+
+Ans: We can clearly see the branch structure.
