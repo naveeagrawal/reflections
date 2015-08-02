@@ -18,3 +18,11 @@ and another free version with ads.
 How do the diagrams help you visualize the branch structure?
 
 Ans: We can clearly see the branch structure.
+
+Ques: What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+Ans: Addition to the original code before branching is kept
+and the deletion to the original code is removed. The
+representation in the diagram is to show that now on the two
+branches have merged and they will follow one development path.
