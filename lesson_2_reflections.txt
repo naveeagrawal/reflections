@@ -26,3 +26,9 @@ Ans: Addition to the original code before branching is kept
 and the deletion to the original code is removed. The
 representation in the diagram is to show that now on the two
 branches have merged and they will follow one development path.
+
+Ques: What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+Ans: Merging manually allows us to to keep changes we want and
+resolve conflicts when same part of code is modified by two or
+more persons.
