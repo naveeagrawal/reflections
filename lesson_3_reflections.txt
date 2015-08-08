@@ -14,3 +14,8 @@ copies of a repository on one machine to another or from the
 GitHub to a computer. Branches are commit sequences starting
 from a point in the commit history and following their own
 path there after.
+
+What is the benefit of having a copy of the last known state
+of the remote stored locally?
+Ans: If we mess up with something we always have something
+to fall back on.
